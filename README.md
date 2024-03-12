@@ -1,6 +1,7 @@
 ```
 $ python3 KeepAccounts_v2.1.py
 ```
+然后用wps参考s0s1s2s3截图操作
 
 # KeepAccounts_v2.1
 KeepAccounts.exe和其配套表格能够实现微信、支付宝官方导出账单的读取合并，为每笔帐标记类型，并按月份和类型生成可视化图表。再也不用消费一笔记一笔，每月仅需10分钟，记好所有的帐。
